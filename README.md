@@ -11,3 +11,4 @@
 5. [Экстремальное программирование. Разработка через тестирование](books/ekstremalnoe_programmirovanie/ekstremalnoe_programmirovanie.md)
 6. [Digital@Scale](books/digital_scale/digital_scale.md)
 7. [Кровь, пот и пиксели. Обратная сторона индустрии видеоигр](books/krov_pot_i_pikseli/krov_pot_i_pikseli.md)
+8. [Живи, вкалывай, сдохни. Репортаж с темной стороны Кремниевой долины](books/zhivi_vkalivai_sdokhni/zhivi_vkalivai_sdokhni.md)
