@@ -7,3 +7,4 @@
 1. [О чем говорят цифры. Как понимать и использовать данные](books/o_chem_govoryat_tsifri/o_chem_govoryat_tsifri.md)
 2. [Измеряйте самое важное. Как Google, Intel и другие компании добиваются роста с помощью OKR](books/izmeryaite_samoe_vazhnoe/izmeryaite_samoe_vazhnoe.md)
 3. [Data Analytics: 4 Books in 1](books/data_analytics/data_analytics.md)
+4. [Big data простым языком](books/big_data_prostim_yazikom/big_data_prostim_yazikom.md)
