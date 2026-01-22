@@ -10,3 +10,4 @@
 4. [Big data простым языком](books/big_data_prostim_yazikom/big_data_prostim_yazikom.md)
 5. [Экстремальное программирование. Разработка через тестирование](books/ekstremalnoe_programmirovanie/ekstremalnoe_programmirovanie.md)
 6. [Digital@Scale](books/digital-scale/digital-scale.md)
+7. [Кровь, пот и пиксели. Обратная сторона индустрии видеоигр](books/krov_pot_i_pikseli/krov_pot_i_pikseli.md)
