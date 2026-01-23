@@ -4,6 +4,7 @@
 
 ---
 ## Книги
+* [Практики замедления времени. Как без спешки наслаждаться каждым моментом](books/praktiki_zamedleniya_vremeni/praktiki_zamedleniya_vremeni.md)
 * [Максимальный репост. Как соцсети заставляют нас верить фейковым новостям](books/maksimalnii_repost/maksimalnii_repost.md)
 * [Без новостей. Как избавиться от информационного шума и мыслить ясно](books/bez_novostei/bez_novostei.md)
 * [Живи, вкалывай, сдохни. Репортаж с темной стороны Кремниевой долины](books/zhivi_vkalivai_sdokhni/zhivi_vkalivai_sdokhni.md)
