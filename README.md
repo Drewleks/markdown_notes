@@ -4,6 +4,7 @@
 
 ---
 ## Книги
+* [Без новостей. Как избавиться от информационного шума и мыслить ясно](books/bez_novostei/bez_novostei.md)
 * [Живи, вкалывай, сдохни. Репортаж с темной стороны Кремниевой долины](books/zhivi_vkalivai_sdokhni/zhivi_vkalivai_sdokhni.md)
 * [Кровь, пот и пиксели. Обратная сторона индустрии видеоигр](books/krov_pot_i_pikseli/krov_pot_i_pikseli.md)
 * [Digital@Scale](books/digital_scale/digital_scale.md)
