@@ -4,6 +4,7 @@
 
 ---
 ## Книги
+* [Почему Рэйса в стрессе?](books/pochemu_reisa_v_stresse/pochemu_reisa_v_stresse.md) 
 * [Этика](books/etika/etika.md)
 * [Практики замедления времени. Как без спешки наслаждаться каждым моментом](books/praktiki_zamedleniya_vremeni/praktiki_zamedleniya_vremeni.md)
 * [Максимальный репост. Как соцсети заставляют нас верить фейковым новостям](books/maksimalnii_repost/maksimalnii_repost.md)
