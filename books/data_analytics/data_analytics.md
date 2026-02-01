@@ -40,5 +40,5 @@
 ["Data Analytics: 4 Books in 1-Bible of 4 Manuscripts-Beginner's Guide+Tips and Tricks+Effective Strategies+Best Practices to learn Data Analytics Efficiently" | Автор: Daniel Jones](https://www.goodreads.com/book/show/40174550-data-analytics)
 ```
 Цитаты из книги использованы в информационных и прочих целях в соответствии со статьёй 1274 ГК РФ.
-Права на оригинальное произведение сохраняются за его автором/правообладателем»
+Права на оригинальное произведение сохраняются за его автором/правообладателем
 ```
