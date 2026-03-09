@@ -4,6 +4,7 @@
 
 ---
 ## Книги
+* [Мама, я тимлид! Практические советы по руководству IT-командой](books/mama_ya_timlid/mama_ya_timlid.md)
 * [От джуна до сеньора. Как стать востребованным разработчиком](books/ot_dzhuna_do_senora/ot_dzhuna_do_senora.md)
 * [Почему Рэйса в стрессе?](books/pochemu_reisa_v_stresse/pochemu_reisa_v_stresse.md)
 * [Этика](books/etika/etika.md)
